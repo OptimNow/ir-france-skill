@@ -39,13 +39,13 @@ Les barèmes et seuils sont dans `references/bareme-et-seuils.md`. Ce fichier do
 ```bash
 # Installation globale (disponible dans tous les projets)
 cd ~/.claude/skills
-git clone https://github.com/VOTRE_USER/ir-france-skill.git ir-france
+git clone https://github.com/OptimNow/ir-france-skill.git ir-france
 
 # OU installation par projet
 cd /chemin/vers/votre/projet
 mkdir -p .claude/skills
 cd .claude/skills
-git clone https://github.com/VOTRE_USER/ir-france-skill.git ir-france
+git clone https://github.com/OptimNow/ir-france-skill.git ir-france
 ```
 
 ### Autres agents (Cursor, Windsurf, Cline...)
